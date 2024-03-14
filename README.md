@@ -1,4 +1,4 @@
-# Clon de Pinterest con HTML y CSS
+# Pinterest Aniversario con HTML y CSS
 
 Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente con HTML y CSS. Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experiencia de navegación similar con un diseño responsive y funcionalidades básicas.
 
