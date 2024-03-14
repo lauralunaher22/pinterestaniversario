@@ -19,4 +19,4 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
 Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
 
 ### Contacto
-Nancy Salazar: [Mi LinkedIn](https://www.instagram.com/lauralunaher/)
+Laura Luna: [Mi LinkedIn](https://www.instagram.com/lauralunaher/)
