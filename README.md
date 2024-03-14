@@ -20,4 +20,3 @@ Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más informaci
 
 ### Contacto
 Laura Luna: [Mi Instagram](https://www.instagram.com/lauralunaher/)
-[Hola](https://camo.githubusercontent.com/50cf39121274b3db22bf1bd72cbe25af9078e037441cb5b5bdef1cc9dc5eb2f7/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
